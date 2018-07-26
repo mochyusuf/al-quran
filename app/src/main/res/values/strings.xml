@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pemeriksaan Tajwid</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_materi">Materi Tajwid</string>
+    <string name="menu_ketik">Ketik Surat</string>
+    <string name="menu_pilihan">Surat Pilihan</string>
+    <string name="menu_bantuan">Bantuan</string>
+    <string name="uri_server">http://192.168.43.243/kamus/_m/kamus.php</string>
+    <string name="uri_local">http://10.0.2.2/kamus/_m/kamus.php</string>
+    <string-array name="arr_surat_pilihan">
+        <item>Al Fiil (105) - الفيل‎</item>
+        <item>Al Quraiisy (106) - قريش</item>
+        <item>Al Maa\'uun (107) - الماعون</item>
+        <item>Al Kautsar (108) - لكوثر</item>
+        <item>Al Kafiruun (109) - الكافرون</item>
+        <item>An Nasr (110) - النصر‎</item>
+        <item>Al Masad (111) - المسد‎</item>
+        <item>Al Ikhlas (112) - الإخلاص</item>
+        <item>Al Falaq (113) - الفلق‎</item>
+        <item>An Naas (114) - لناس</item>
+    </string-array>
+</resources>

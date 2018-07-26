@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f8f8f8"
+    android:padding="0dp">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listkamus"
+        android:headerDividersEnabled="true"
+        android:footerDividersEnabled="true"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbarSize="1dp"
+        android:smoothScrollbar="true"
+        android:scrollbarFadeDuration="100"
+        android:scrollbarDefaultDelayBeforeFade="200" />
+
+</LinearLayout>
